@@ -1,0 +1,19 @@
+{
+  "name": "Radar",
+  "short_name": "Radar",
+  "description": "Seu quartel-general mental e estratégico",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2EDE4",
+  "theme_color": "#1E1A14",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%231E1A14'/><text y='.85em' font-size='62' x='14' fill='white' font-family='serif' font-weight='700'>R</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
